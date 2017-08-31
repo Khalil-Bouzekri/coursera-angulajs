@@ -1,2 +1,2 @@
-# coursera-angulajs
+# coursera-angularjs
 coursera angularjs
